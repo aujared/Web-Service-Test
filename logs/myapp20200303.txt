@@ -1,0 +1,80 @@
+2020-03-03 11:44:20.659 -10:00 [INF] Starting service
+2020-03-03 11:44:21.411 -10:00 [DBG] [WEBSOCKET CLIENT] Starting..
+2020-03-03 11:44:22.902 -10:00 [ERR] [WEBSOCKET CLIENT] Exception while connecting. Waiting 60 sec before next reconnection try. Error: 'The server returned status code '500' when status code '101' was expected.'
+2020-03-03 12:53:57.241 -10:00 [INF] Starting service
+2020-03-03 12:53:57.350 -10:00 [DBG] [WEBSOCKET CLIENT] Starting..
+2020-03-03 12:53:58.230 -10:00 [ERR] [WEBSOCKET CLIENT] Exception while connecting. Waiting 60 sec before next reconnection try. Error: 'The server returned status code '500' when status code '101' was expected.'
+2020-03-03 12:54:40.301 -10:00 [INF] Starting service
+2020-03-03 12:54:40.447 -10:00 [DBG] [WEBSOCKET CLIENT] Starting..
+2020-03-03 12:54:41.670 -10:00 [ERR] [WEBSOCKET CLIENT] Exception while connecting. Waiting 60 sec before next reconnection try. Error: 'The server returned status code '500' when status code '101' was expected.'
+2020-03-03 12:56:03.403 -10:00 [INF] Starting service
+2020-03-03 12:56:03.695 -10:00 [DBG] [WEBSOCKET CLIENT] Starting..
+2020-03-03 12:56:04.714 -10:00 [INF] Reconnection happened, type: Initial
+2020-03-03 12:56:14.546 -10:00 [INF] Message received: {"first":"FirstName","last":"LastName","phone":"555-555-5555"}
+2020-03-03 12:56:15.030 -10:00 [INF] First FirstName, Last LastName, Phone 555-555-5555
+2020-03-03 13:03:06.294 -10:00 [INF] Starting service
+2020-03-03 13:03:06.460 -10:00 [DBG] [WEBSOCKET CLIENT] Starting..
+2020-03-03 13:03:07.298 -10:00 [INF] Reconnection happened, type: Initial
+2020-03-03 13:03:16.643 -10:00 [INF] Message received: {"version":"1.0","response":{"outputSpeech":{"type":"SSML","ssml":"<speak> Hello, Welcome to The Ambient Lab v2</speak>"},"shouldEndSession":false,"msgtype":"Start Session"}
+2020-03-03 13:03:16.953 -10:00 [INF] First null, Last null, Phone null
+2020-03-03 13:03:47.339 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-03-03 13:03:47.357 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-03-03 13:03:47.846 -10:00 [INF] Reconnection happened, type: NoMessageReceived
+2020-03-03 13:04:17.853 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-03-03 13:04:17.861 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-03-03 13:04:18.333 -10:00 [INF] Reconnection happened, type: NoMessageReceived
+2020-03-03 13:04:48.345 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-03-03 13:04:48.352 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-03-03 13:04:48.847 -10:00 [INF] Reconnection happened, type: NoMessageReceived
+2020-03-03 13:05:18.853 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-03-03 13:05:18.857 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-03-03 13:05:19.409 -10:00 [INF] Reconnection happened, type: NoMessageReceived
+2020-03-03 13:05:49.418 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-03-03 13:05:49.428 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-03-03 13:05:50.011 -10:00 [INF] Reconnection happened, type: NoMessageReceived
+2020-03-03 13:05:59.991 -10:00 [INF] Message received: {"version":"1.0","response":{"outputSpeech":{"type":"SSML","ssml":"<speak> Okay here is the list of devices:Laptop1, TV1, Laptop2, Desktop1 </speak>"},"reprompt":{"outputSpeech":{"type":"SSML","ssml":"<speak> Okay here is the list of devices:Laptop1, TV1, Laptop2, Desktop1 </speak>"},"shouldEndSession":false,"msgtype":"List Devices"}
+2020-03-03 13:06:00.002 -10:00 [INF] First null, Last null, Phone null
+2020-03-03 13:06:11.589 -10:00 [INF] Message received: {"response":{"outputSpeech":{"type":"SSML","ssml":"<speak> Thank you for visiting the Ambient Lab, have a nice day! </speak>"},"shouldEndSession":true,"msgtype":"End Session"}
+2020-03-03 13:06:11.602 -10:00 [INF] First null, Last null, Phone null
+2020-03-03 13:06:42.023 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-03-03 13:06:42.027 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-03-03 13:06:42.478 -10:00 [INF] Reconnection happened, type: NoMessageReceived
+2020-03-03 13:06:56.765 -10:00 [INF] Message received: {"version":"1.0","response":{"outputSpeech":{"type":"SSML","ssml":"<speak> Hello, Welcome to The Ambient Lab v2</speak>"},"shouldEndSession":false,"msgtype":"Start Session"}
+2020-03-03 13:06:56.776 -10:00 [INF] First null, Last null, Phone null
+2020-03-03 13:07:04.305 -10:00 [INF] Message received: {"version":"1.0","response":{"outputSpeech":{"type":"SSML","ssml":"<speak> Okay here is the list of devices:Laptop1, TV1, Laptop2, Desktop1 </speak>"},"reprompt":{"outputSpeech":{"type":"SSML","ssml":"<speak> Okay here is the list of devices:Laptop1, TV1, Laptop2, Desktop1 </speak>"},"shouldEndSession":false,"msgtype":"List Devices"}
+2020-03-03 13:07:04.320 -10:00 [INF] First null, Last null, Phone null
+2020-03-03 13:07:15.835 -10:00 [INF] Message received: {"response":{"outputSpeech":{"type":"SSML","ssml":"<speak> Thank you for visiting the Ambient Lab, have a nice day! </speak>"},"shouldEndSession":true,"msgtype":"End Session"}
+2020-03-03 13:07:15.840 -10:00 [INF] First null, Last null, Phone null
+2020-03-03 13:07:46.493 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-03-03 13:07:46.499 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-03-03 13:07:46.954 -10:00 [INF] Reconnection happened, type: NoMessageReceived
+2020-03-03 13:07:53.754 -10:00 [INF] Message received: {"version":"1.0","response":{"outputSpeech":{"type":"SSML","ssml":"<speak> Hello, Welcome to The Ambient Lab v2</speak>"},"shouldEndSession":false,"msgtype":"Start Session"}
+2020-03-03 13:07:53.762 -10:00 [INF] First null, Last null, Phone null
+2020-03-03 13:08:10.713 -10:00 [INF] Message received: {"version":"1.0","response":{"outputSpeech":{"type":"SSML","ssml":"<speak> Okay activating led On device shinzopc </speak>"},"reprompt":{"outputSpeech":{"type":"SSML","ssml":"<speak> Okay activating led On device shinzopc </speak>"},"shouldEndSession":false,"msgtype":"Device Activation"}
+2020-03-03 13:08:10.723 -10:00 [INF] First null, Last null, Phone null
+2020-03-03 13:08:22.383 -10:00 [INF] Message received: {"response":{"outputSpeech":{"type":"SSML","ssml":"<speak> Thank you for visiting the Ambient Lab, have a nice day! </speak>"},"shouldEndSession":true,"msgtype":"End Session"}
+2020-03-03 13:08:22.387 -10:00 [INF] First null, Last null, Phone null
+2020-03-03 13:08:49.426 -10:00 [INF] Starting service
+2020-03-03 13:08:49.636 -10:00 [DBG] [WEBSOCKET CLIENT] Starting..
+2020-03-03 13:08:50.306 -10:00 [INF] Reconnection happened, type: Initial
+2020-03-03 13:09:05.628 -10:00 [INF] Message received: {"version":"1.0","response":{"outputSpeech":{"type":"SSML","ssml":"<speak> Hello, Welcome to The Ambient Lab v2</speak>"},"shouldEndSession":false,"msgtype":"Start Session"}
+2020-03-03 13:09:05.820 -10:00 [INF] {@msgtype}
+2020-03-03 13:09:36.329 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-03-03 13:09:36.347 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-03-03 13:09:36.841 -10:00 [INF] Reconnection happened, type: NoMessageReceived
+2020-03-03 13:09:37.855 -10:00 [INF] Message received: {"version":"1.0","response":{"outputSpeech":{"type":"SSML","ssml":"<speak> Okay here is the list of devices:Laptop1, TV1, Laptop2, Desktop1 </speak>"},"reprompt":{"outputSpeech":{"type":"SSML","ssml":"<speak> Okay here is the list of devices:Laptop1, TV1, Laptop2, Desktop1 </speak>"},"shouldEndSession":false,"msgtype":"List Devices"}
+2020-03-03 13:09:37.868 -10:00 [INF] {@msgtype}
+2020-03-03 13:09:49.427 -10:00 [INF] Message received: {"response":{"outputSpeech":{"type":"SSML","ssml":"<speak> Thank you for visiting the Ambient Lab, have a nice day! </speak>"},"shouldEndSession":true,"msgtype":"End Session"}
+2020-03-03 13:09:49.440 -10:00 [INF] {@msgtype}
+2020-03-03 13:10:19.856 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-03-03 13:10:19.862 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-03-03 13:10:20.351 -10:00 [INF] Reconnection happened, type: NoMessageReceived
+2020-03-03 13:10:33.369 -10:00 [ERR] [WEBSOCKET CLIENT] Error while listening to websocket stream, error: 'The remote party closed the WebSocket connection without completing the close handshake.'
+2020-03-03 13:10:33.377 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-03-03 13:10:33.868 -10:00 [INF] Reconnection happened, type: Lost
+2020-03-03 13:11:04.873 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-03-03 13:11:04.880 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-03-03 13:11:05.440 -10:00 [INF] Reconnection happened, type: NoMessageReceived
+2020-03-03 13:11:35.448 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-03-03 13:11:35.458 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-03-03 13:11:35.947 -10:00 [INF] Reconnection happened, type: NoMessageReceived

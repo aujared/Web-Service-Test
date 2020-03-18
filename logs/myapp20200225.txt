@@ -1,0 +1,250 @@
+2020-02-25 13:47:34.393 -10:00 [INF] Starting SenseHAT service
+2020-02-25 13:47:34.589 -10:00 [INF] Creating EdgeConnection for cluster test-cluster, context _PUBLIC and service osc-driver
+2020-02-25 14:26:21.150 -10:00 [INF] Starting SenseHAT service
+2020-02-25 14:31:57.545 -10:00 [INF] Starting SenseHAT service
+2020-02-25 14:31:57.736 -10:00 [DBG] [WEBSOCKET CLIENT] Starting..
+2020-02-25 14:42:46.224 -10:00 [INF] Starting SenseHAT service
+2020-02-25 14:42:46.318 -10:00 [DBG] [WEBSOCKET CLIENT] Starting..
+2020-02-25 14:42:46.889 -10:00 [INF] Reconnection happened, type: Initial
+2020-02-25 14:42:54.313 -10:00 [INF] Message received: 1582677774314
+2020-02-25 14:42:58.518 -10:00 [INF] Message received: 1582677778532
+2020-02-25 14:42:59.176 -10:00 [INF] Message received: 1582677779190
+2020-02-25 14:43:09.636 -10:00 [ERR] [WEBSOCKET CLIENT] Error while listening to websocket stream, error: 'The remote party closed the WebSocket connection without completing the close handshake.'
+2020-02-25 14:43:09.640 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-02-25 14:43:10.101 -10:00 [INF] Reconnection happened, type: Lost
+2020-02-25 14:43:25.177 -10:00 [ERR] [WEBSOCKET CLIENT] Error while listening to websocket stream, error: 'The remote party closed the WebSocket connection without completing the close handshake.'
+2020-02-25 14:43:25.180 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-02-25 14:43:25.640 -10:00 [INF] Reconnection happened, type: Lost
+2020-02-25 14:43:29.276 -10:00 [INF] Message received: stop
+2020-02-25 14:43:32.304 -10:00 [INF] Message received: stop
+2020-02-25 14:43:33.134 -10:00 [INF] Message received: stop
+2020-02-25 14:44:03.645 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-02-25 14:44:03.647 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-02-25 14:44:04.098 -10:00 [INF] Reconnection happened, type: NoMessageReceived
+2020-02-25 14:44:34.109 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-02-25 14:44:34.112 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-02-25 14:44:34.567 -10:00 [INF] Reconnection happened, type: NoMessageReceived
+2020-02-25 14:45:04.581 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-02-25 14:45:04.584 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-02-25 14:45:05.051 -10:00 [INF] Reconnection happened, type: NoMessageReceived
+2020-02-25 14:45:35.171 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-02-25 14:45:35.173 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-02-25 14:45:35.639 -10:00 [INF] Reconnection happened, type: NoMessageReceived
+2020-02-25 14:46:05.643 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-02-25 14:46:05.649 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-02-25 14:46:06.104 -10:00 [INF] Reconnection happened, type: NoMessageReceived
+2020-02-25 14:46:34.533 -10:00 [ERR] [WEBSOCKET CLIENT] Error while listening to websocket stream, error: 'The remote party closed the WebSocket connection without completing the close handshake.'
+2020-02-25 14:46:34.535 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-02-25 14:46:34.995 -10:00 [INF] Reconnection happened, type: Lost
+2020-02-25 14:46:36.089 -10:00 [INF] Message received: stop
+2020-02-25 14:46:37.301 -10:00 [INF] Message received: stop
+2020-02-25 14:46:47.668 -10:00 [ERR] [WEBSOCKET CLIENT] Error while listening to websocket stream, error: 'The remote party closed the WebSocket connection without completing the close handshake.'
+2020-02-25 14:46:47.670 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-02-25 14:46:48.134 -10:00 [INF] Reconnection happened, type: Lost
+2020-02-25 14:46:49.463 -10:00 [INF] Message received: 1582678009476
+2020-02-25 14:46:50.542 -10:00 [INF] Message received: 1582678010555
+2020-02-25 14:47:21.140 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-02-25 14:47:21.145 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-02-25 14:47:21.593 -10:00 [INF] Reconnection happened, type: NoMessageReceived
+2020-02-25 14:47:33.762 -10:00 [ERR] [WEBSOCKET CLIENT] Error while listening to websocket stream, error: 'The remote party closed the WebSocket connection without completing the close handshake.'
+2020-02-25 14:47:33.764 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-02-25 14:47:34.207 -10:00 [INF] Reconnection happened, type: Lost
+2020-02-25 14:47:34.819 -10:00 [INF] Message received: true
+2020-02-25 14:47:35.760 -10:00 [INF] Message received: true
+2020-02-25 14:47:36.452 -10:00 [INF] Message received: true
+2020-02-25 14:47:48.703 -10:00 [ERR] [WEBSOCKET CLIENT] Error while listening to websocket stream, error: 'The remote party closed the WebSocket connection without completing the close handshake.'
+2020-02-25 14:47:48.706 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-02-25 14:47:49.155 -10:00 [INF] Reconnection happened, type: Lost
+2020-02-25 14:47:50.806 -10:00 [INF] Message received: true
+2020-02-25 14:48:21.158 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-02-25 14:48:21.160 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-02-25 14:48:21.608 -10:00 [INF] Reconnection happened, type: NoMessageReceived
+2020-02-25 14:48:26.733 -10:00 [ERR] [WEBSOCKET CLIENT] Error while listening to websocket stream, error: 'The remote party closed the WebSocket connection without completing the close handshake.'
+2020-02-25 14:48:26.736 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-02-25 14:48:27.178 -10:00 [INF] Reconnection happened, type: Lost
+2020-02-25 14:48:27.826 -10:00 [INF] Message received: true
+2020-02-25 14:48:48.389 -10:00 [ERR] [WEBSOCKET CLIENT] Error while listening to websocket stream, error: 'The remote party closed the WebSocket connection without completing the close handshake.'
+2020-02-25 14:48:48.391 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-02-25 14:48:48.823 -10:00 [INF] Reconnection happened, type: Lost
+2020-02-25 14:48:49.609 -10:00 [INF] Message received: {"firstname":"Darren","lastname":"Carlson","phone":"555-555-5555"}
+2020-02-25 14:49:19.828 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-02-25 14:49:19.831 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-02-25 14:49:20.274 -10:00 [INF] Reconnection happened, type: NoMessageReceived
+2020-02-25 14:49:50.282 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-02-25 14:49:50.285 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-02-25 14:49:50.732 -10:00 [INF] Reconnection happened, type: NoMessageReceived
+2020-02-25 14:50:20.736 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-02-25 14:50:20.738 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-02-25 14:50:21.172 -10:00 [INF] Reconnection happened, type: NoMessageReceived
+2020-02-25 14:54:01.523 -10:00 [INF] Starting SenseHAT service
+2020-02-25 14:54:01.622 -10:00 [DBG] [WEBSOCKET CLIENT] Starting..
+2020-02-25 14:54:02.190 -10:00 [INF] Reconnection happened, type: Initial
+2020-02-25 14:54:14.421 -10:00 [ERR] [WEBSOCKET CLIENT] Error while listening to websocket stream, error: 'The remote party closed the WebSocket connection without completing the close handshake.'
+2020-02-25 14:54:14.426 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-02-25 14:54:14.864 -10:00 [INF] Reconnection happened, type: Lost
+2020-02-25 14:54:17.507 -10:00 [INF] Message received: {"first":"Darren","last":"Carlson","phone":"555-555-5555"}
+2020-02-25 14:54:17.665 -10:00 [INF] First [], Last [], Phone []
+2020-02-25 14:54:47.877 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-02-25 14:54:47.882 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-02-25 14:54:48.341 -10:00 [INF] Reconnection happened, type: NoMessageReceived
+2020-02-25 14:55:19.587 -10:00 [INF] Starting SenseHAT service
+2020-02-25 14:55:19.687 -10:00 [DBG] [WEBSOCKET CLIENT] Starting..
+2020-02-25 14:55:20.237 -10:00 [INF] Reconnection happened, type: Initial
+2020-02-25 14:55:22.227 -10:00 [INF] Message received: {"first":"Darren","last":"Carlson","phone":"555-555-5555"}
+2020-02-25 14:55:22.311 -10:00 [INF] First [], Last [], Phone []
+2020-02-25 14:55:26.103 -10:00 [INF] Message received: {"first":"Darren","last":"Carlson","phone":"555-555-5555"}
+2020-02-25 14:55:26.110 -10:00 [INF] First [], Last [], Phone []
+2020-02-25 14:55:56.249 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-02-25 14:55:56.261 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-02-25 14:55:56.748 -10:00 [INF] Reconnection happened, type: NoMessageReceived
+2020-02-25 14:56:26.754 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-02-25 14:56:26.757 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-02-25 14:56:27.209 -10:00 [INF] Reconnection happened, type: NoMessageReceived
+2020-02-25 14:56:57.224 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-02-25 14:56:57.229 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-02-25 14:56:57.700 -10:00 [INF] Reconnection happened, type: NoMessageReceived
+2020-02-25 14:57:27.704 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-02-25 14:57:27.709 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-02-25 14:57:28.155 -10:00 [INF] Reconnection happened, type: NoMessageReceived
+2020-02-25 14:57:58.161 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-02-25 14:57:58.164 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-02-25 14:57:58.614 -10:00 [INF] Reconnection happened, type: NoMessageReceived
+2020-02-25 14:58:27.238 -10:00 [INF] Starting SenseHAT service
+2020-02-25 14:58:27.334 -10:00 [DBG] [WEBSOCKET CLIENT] Starting..
+2020-02-25 14:58:27.927 -10:00 [INF] Reconnection happened, type: Initial
+2020-02-25 14:58:43.484 -10:00 [INF] Starting SenseHAT service
+2020-02-25 14:58:43.586 -10:00 [INF] Creating EdgeConnection for cluster test-cluster, context _PUBLIC and service osc-driver
+2020-02-25 14:59:54.085 -10:00 [INF] Starting SenseHAT service
+2020-02-25 14:59:54.188 -10:00 [INF] Creating EdgeConnection for cluster test-cluster, context _PUBLIC and service osc-driver
+2020-02-25 15:00:35.095 -10:00 [INF] Starting SenseHAT service
+2020-02-25 15:00:35.192 -10:00 [INF] Creating EdgeConnection for cluster test-cluster, context _PUBLIC and service osc-driver
+2020-02-25 15:02:01.757 -10:00 [INF] Starting SenseHAT service
+2020-02-25 15:02:01.859 -10:00 [INF] Creating EdgeConnection for cluster test-cluster, context _PUBLIC and service osc-driver
+2020-02-25 15:02:39.711 -10:00 [INF] Starting SenseHAT service
+2020-02-25 15:02:39.812 -10:00 [INF] Creating EdgeConnection for cluster test-cluster, context _PUBLIC and service osc-driver
+2020-02-25 15:03:21.756 -10:00 [INF] Starting SenseHAT service
+2020-02-25 15:03:21.854 -10:00 [INF] Creating EdgeConnection for cluster test-cluster, context _PUBLIC and service osc-driver
+2020-02-25 15:03:55.804 -10:00 [INF] Starting SenseHAT service
+2020-02-25 15:03:55.901 -10:00 [INF] Creating EdgeConnection for cluster test-cluster, context _PUBLIC and service osc-driver
+2020-02-25 15:04:32.086 -10:00 [INF] Starting SenseHAT service
+2020-02-25 15:04:32.186 -10:00 [INF] Creating EdgeConnection for cluster test-cluster, context _PUBLIC and service osc-driver
+2020-02-25 15:28:51.506 -10:00 [INF] Starting SenseHAT service
+2020-02-25 15:28:51.591 -10:00 [INF] Starting...
+2020-02-25 15:28:51.655 -10:00 [DBG] [WEBSOCKET CLIENT] Starting..
+2020-02-25 15:28:52.269 -10:00 [INF] Reconnection happened, type: Initial
+2020-02-25 15:29:22.293 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-02-25 15:29:22.313 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-02-25 15:29:22.800 -10:00 [INF] Reconnection happened, type: NoMessageReceived
+2020-02-25 15:29:52.812 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-02-25 15:29:52.815 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-02-25 15:29:53.260 -10:00 [INF] Reconnection happened, type: NoMessageReceived
+2020-02-25 15:30:23.273 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-02-25 15:30:23.276 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-02-25 15:30:23.752 -10:00 [INF] Reconnection happened, type: NoMessageReceived
+2020-02-25 15:30:43.633 -10:00 [INF] Message received: {"first":"Darren","last":"Carlson","phone":"555-555-5555"}
+2020-02-25 15:30:43.823 -10:00 [INF] First [], Last [], Phone []
+2020-02-25 15:31:13.765 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-02-25 15:31:13.768 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-02-25 15:31:14.220 -10:00 [INF] Reconnection happened, type: NoMessageReceived
+2020-02-25 15:31:24.328 -10:00 [INF] Starting SenseHAT service
+2020-02-25 15:31:24.381 -10:00 [INF] Starting...
+2020-02-25 15:31:24.438 -10:00 [DBG] [WEBSOCKET CLIENT] Starting..
+2020-02-25 15:31:24.999 -10:00 [INF] Reconnection happened, type: Initial
+2020-02-25 15:31:28.527 -10:00 [INF] Message received: {"first":"Darren","last":"Carlson","phone":"555-555-5555"}
+2020-02-25 15:31:28.740 -10:00 [INF] First [], Last [], Phone []
+2020-02-25 15:31:59.017 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-02-25 15:31:59.022 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-02-25 15:31:59.472 -10:00 [INF] Reconnection happened, type: NoMessageReceived
+2020-02-25 15:32:29.483 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-02-25 15:32:29.486 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-02-25 15:32:29.973 -10:00 [INF] Reconnection happened, type: NoMessageReceived
+2020-02-25 15:32:59.984 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-02-25 15:32:59.986 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-02-25 15:33:00.447 -10:00 [INF] Reconnection happened, type: NoMessageReceived
+2020-02-25 15:33:30.454 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-02-25 15:33:30.456 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-02-25 15:33:30.907 -10:00 [INF] Reconnection happened, type: NoMessageReceived
+2020-02-25 15:34:00.922 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-02-25 15:34:00.924 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-02-25 15:34:01.354 -10:00 [INF] Reconnection happened, type: NoMessageReceived
+2020-02-25 15:34:31.360 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-02-25 15:34:31.362 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-02-25 15:34:31.816 -10:00 [INF] Reconnection happened, type: NoMessageReceived
+2020-02-25 15:35:01.827 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-02-25 15:35:01.829 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-02-25 15:35:02.291 -10:00 [INF] Reconnection happened, type: NoMessageReceived
+2020-02-25 15:35:26.013 -10:00 [INF] Starting SenseHAT service
+2020-02-25 15:35:26.085 -10:00 [INF] Starting...
+2020-02-25 15:36:47.564 -10:00 [INF] Starting SenseHAT service
+2020-02-25 15:36:47.613 -10:00 [INF] Starting...
+2020-02-25 15:36:58.093 -10:00 [INF] Starting SenseHAT service
+2020-02-25 15:36:58.145 -10:00 [INF] Starting...
+2020-02-25 15:38:22.324 -10:00 [INF] Starting SenseHAT service
+2020-02-25 15:38:22.372 -10:00 [INF] Starting...
+2020-02-25 15:38:22.530 -10:00 [DBG] [WEBSOCKET CLIENT] Starting..
+2020-02-25 15:38:23.098 -10:00 [INF] Reconnection happened, type: Initial
+2020-02-25 15:38:27.285 -10:00 [INF] Message received: {"first":"Darren","last":"Carlson","phone":"555-555-5555"}
+2020-02-25 15:38:27.393 -10:00 [INF] First [], Last [], Phone [], Object {3}
+2020-02-25 15:38:58.111 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-02-25 15:38:58.116 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-02-25 15:38:58.581 -10:00 [INF] Reconnection happened, type: NoMessageReceived
+2020-02-25 15:39:28.585 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-02-25 15:39:28.587 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-02-25 15:39:29.026 -10:00 [INF] Reconnection happened, type: NoMessageReceived
+2020-02-25 15:39:59.046 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-02-25 15:39:59.050 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-02-25 15:39:59.493 -10:00 [INF] Reconnection happened, type: NoMessageReceived
+2020-02-25 15:40:29.499 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-02-25 15:40:29.505 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-02-25 15:40:29.955 -10:00 [INF] Reconnection happened, type: NoMessageReceived
+2020-02-25 15:40:47.789 -10:00 [INF] Starting SenseHAT service
+2020-02-25 15:40:47.836 -10:00 [INF] Starting...
+2020-02-25 15:40:47.900 -10:00 [DBG] [WEBSOCKET CLIENT] Starting..
+2020-02-25 15:40:48.480 -10:00 [INF] Reconnection happened, type: Initial
+2020-02-25 15:40:50.535 -10:00 [INF] Message received: {"first":"Darren","last":"Carlson","phone":"555-555-5555"}
+2020-02-25 15:40:50.619 -10:00 [INF] First [], Last [], Phone []
+2020-02-25 15:41:15.473 -10:00 [INF] Starting SenseHAT service
+2020-02-25 15:41:15.521 -10:00 [INF] Starting...
+2020-02-25 15:41:15.580 -10:00 [DBG] [WEBSOCKET CLIENT] Starting..
+2020-02-25 15:41:16.135 -10:00 [INF] Reconnection happened, type: Initial
+2020-02-25 15:41:17.761 -10:00 [INF] Message received: {"first":"Darren","last":"Carlson","phone":"555-555-5555"}
+2020-02-25 15:41:17.846 -10:00 [INF] First [], Last [], Phone []
+2020-02-25 15:41:48.157 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-02-25 15:41:48.163 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-02-25 15:41:48.612 -10:00 [INF] Reconnection happened, type: NoMessageReceived
+2020-02-25 15:42:12.959 -10:00 [INF] Starting SenseHAT service
+2020-02-25 15:42:13.005 -10:00 [INF] Starting...
+2020-02-25 15:42:13.061 -10:00 [DBG] [WEBSOCKET CLIENT] Starting..
+2020-02-25 15:42:13.676 -10:00 [INF] Reconnection happened, type: Initial
+2020-02-25 15:42:15.664 -10:00 [INF] Message received: {"first":"Darren","last":"Carlson","phone":"555-555-5555"}
+2020-02-25 15:42:15.737 -10:00 [INF] Test [[[]],[[]],[[]]]
+2020-02-25 15:42:15.761 -10:00 [INF] First [], Last [], Phone []
+2020-02-25 15:42:45.691 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-02-25 15:42:45.699 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-02-25 15:42:46.160 -10:00 [INF] Reconnection happened, type: NoMessageReceived
+2020-02-25 15:43:16.171 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-02-25 15:43:16.176 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-02-25 15:43:16.635 -10:00 [INF] Reconnection happened, type: NoMessageReceived
+2020-02-25 15:45:22.087 -10:00 [INF] Starting SenseHAT service
+2020-02-25 15:45:22.138 -10:00 [INF] Starting...
+2020-02-25 15:45:22.198 -10:00 [DBG] [WEBSOCKET CLIENT] Starting..
+2020-02-25 15:45:22.768 -10:00 [INF] Reconnection happened, type: Initial
+2020-02-25 15:45:24.995 -10:00 [INF] Message received: {"first":"Darren","last":"Carlson","phone":"555-555-5555"}
+2020-02-25 15:45:25.080 -10:00 [INF] First [], Last [], Phone []
+2020-02-25 15:45:25.358 -10:00 [INF] Message received: {"first":"Darren","last":"Carlson","phone":"555-555-5555"}
+2020-02-25 15:45:25.362 -10:00 [INF] First [], Last [], Phone []
+2020-02-25 15:45:47.783 -10:00 [INF] Starting SenseHAT service
+2020-02-25 15:45:47.826 -10:00 [INF] Starting...
+2020-02-25 15:45:47.876 -10:00 [DBG] [WEBSOCKET CLIENT] Starting..
+2020-02-25 15:45:48.463 -10:00 [INF] Reconnection happened, type: Initial
+2020-02-25 15:45:52.327 -10:00 [INF] Message received: {"first":"Darren","last":"Carlson","phone":"555-555-5555"}
+2020-02-25 15:45:52.410 -10:00 [INF] First Darren, Last Carlson, Phone 555-555-5555
+2020-02-25 15:46:22.484 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-02-25 15:46:22.490 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-02-25 15:46:22.925 -10:00 [INF] Reconnection happened, type: NoMessageReceived
+2020-02-25 15:46:52.938 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-02-25 15:46:52.944 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-02-25 15:46:53.422 -10:00 [INF] Reconnection happened, type: NoMessageReceived
+2020-02-25 15:47:23.439 -10:00 [DBG] [WEBSOCKET CLIENT] Last message received more than 30000.00 ms ago. Hard restart..
+2020-02-25 15:47:23.441 -10:00 [DBG] [WEBSOCKET CLIENT] Reconnecting...
+2020-02-25 15:47:23.892 -10:00 [INF] Reconnection happened, type: NoMessageReceived
